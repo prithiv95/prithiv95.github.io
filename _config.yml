@@ -23,7 +23,7 @@ avatar_image: /img/unamed.jpg
 #-------------------------------
 # Contact links
 linkedln: "https://www.linkedin.com/in/prithiv-anandh/"
-github: "prithiv95.github.io"  # Add your github handle
+github: "https://github.io"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
